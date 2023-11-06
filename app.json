@@ -4,7 +4,7 @@
   "keywords": [
     "whatsapp bot"
   ],
-  "repository": "https://github.com/Guru322/GURU-BOT",
+  "repository": "",
   "stack": "container",
   "env": {
     "DATABASE_URL": {
@@ -30,16 +30,16 @@
     },
     "buildpacks": [
     {
-      "url": "heroku/nodejs"
+      "url": ""
     },
     {
-      "url": "https://github.com/DuckyTeam/heroku-buildpack-imagemagick.git"
+      "url": ""
     },
     {
-      "url": "https://github.com/jonathanong/heroku-buildpack-ffmpeg-latest"
+      "url": ""
     },
     {
-      "url": "https://github.com/clhuang/heroku-buildpack-webp-binaries.git"
+      "url": ""
     }
   ]
 }
