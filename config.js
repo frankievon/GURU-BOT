@@ -8,7 +8,7 @@ import axios from 'axios'
 
 global.owner = [
   ['255629410604', 'frankie', true],
-  //['255629410604', 'Ash', true], 
+  ['255629410604', 'Ash', true], 
   [''] 
 ] //Number of owners
 
@@ -17,7 +17,7 @@ global.owner = [
 global.mods = ['255629410604',''] 
 global.prems = ['255629410604', '', '']
 global.allowed = ['255629410604', '', '']
-global.keysZens = ['', '', '']
+global.keysZens = ['c2459db922', '', '']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
 global.keysxteam = keysxteammm[Math.floor(keysxteammm.length * Math.random())]
@@ -53,7 +53,7 @@ global.APIKeys = { // APIKey Here
 global.botname = 'frankie'
 global.premium = 'true'
 global.packname = '🇹🇿' 
-global.author = '@Asliguru' 
+global.author = '@frankie' 
 global.menuvid = 'https://telegra.ph/file/085c4b1068f0f4f8db970.mp4'
 //global.igfg = '▢ Follow on Instagram\nhttps://www.instagram.com/asli_guru69\n' 
 //global.dygp = 'https://chat.whatsapp.com/BibVE6tUICp3qOm2a1Ur8f'
