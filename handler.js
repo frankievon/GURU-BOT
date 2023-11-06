@@ -138,7 +138,7 @@ export async function handler(chatUpdate) {
                 if (!("getmsg" in chat)) chat.getmsg = true
                 if (!("isBanned" in chat)) chat.isBanned = false
                 if (!("nsfw" in chat)) chat.nsfw = false
-                if (!("sBye" in chat)) chat.sBye = ""
+                if (!("sBye" in chat)) chat.sBye = "false"
                 if (!("sDemote" in chat)) chat.sDemote = ""
                 if (!("simi" in chat)) chat.simi = false
                 if (!("sPromote" in chat)) chat.sPromote = ""
@@ -160,7 +160,7 @@ export async function handler(chatUpdate) {
                     getmsg: true,
                     isBanned: false,
                     nsfw: false, 
-                    sBye: "",
+                    sBye: "false",
                     sDemote: "",
                     simi: false,
                     sPromote: "",
