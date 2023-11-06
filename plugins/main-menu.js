@@ -28,7 +28,7 @@ import {
   ╰──────────⳹
  
   乂───『 *I N F O*』───乂
-  ⛥ *Bot Name:* ${botname}
+  ⛥ *Bot Name:* ${botname} +255757917366
   ⛥ *Mode:* %mode
   ⛥ *Platform:* %platform
   ⛥ *Type:* NodeJs
